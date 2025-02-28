@@ -124,7 +124,7 @@ body {
 
 /* hidden list */
 .container .itemsContain {
-    /* visibility: hidden; */
+    visibility: hidden;
 }
 
 /* credit */
